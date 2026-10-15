@@ -1,0 +1,11 @@
+customtkinter==5.2.2
+ursina==3.6.0
+mysql-connector-python==8.3.0
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+geopy==2.4.1
+requests==2.31.0
+networkx==3.2.1
+scikit-learn==1.4.1
+pygame==2.5.2
